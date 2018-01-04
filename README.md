@@ -1,6 +1,7 @@
 # Project-Totnghiep_PHP
 
 ##functionalities
+
 1.Chức năng đăng nhập, đăng ký
 
 > Authentication và authorization
